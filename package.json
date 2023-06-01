@@ -1,0 +1,19 @@
+{
+  "name": "ada-discordresponder-types",
+  "version": "1.0.0",
+  "description": "",
+  "main": "discord-responder/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therealemissions/discordia-discordresponder-types.git"
+  },
+  "author": "Emissions#2565",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/therealemissions/discordia-discordresponder-types/issues"
+  },
+  "homepage": "https://github.com/therealemissions/discordia-discordresponder-types#readme"
+}
