@@ -1,6 +1,6 @@
 import Base from "ts-modular-bot-file-design";
 import { Dependency } from "ada-types";
-import Events from "ts-modular-bot-addon-events-types";
+import Events from "ada-events-types";
 import DiscordClient from "ada-discordclient-types";
 declare abstract class BaseApp extends Base {
     constructor();
